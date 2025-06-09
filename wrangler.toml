@@ -7,11 +7,11 @@ type = "javascript"
 
 [[kv_namespaces]]
 binding = "TODOS"
-id = ""
+id = "5ce424bd95d245208ad06f0692dce16f"
 
 [env.dev]
 name = "todo-preview-dev"
 
 [[env.dev.kv_namespaces]]
 binding = "TODOS"
-id = ""
+id = "4a886cec6a3c4576af351690716576af"
