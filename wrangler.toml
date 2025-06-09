@@ -1,4 +1,5 @@
 name = "todo-preview-prod"
 main = "src/index.js"
 account_id = "3adac28a3b149802baa44f3eff150449"
-compatibility_date = "2025-06-08"
+compatibility_date = "2025-06-09"
+workers_dev = true
